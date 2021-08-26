@@ -20,8 +20,6 @@ sites:
     url: https://typings.dev
   - name: Rushia Button
     url: https://rushia.moe
-  - name: Eh Collection
-    url: https://eh.pops.moe
   - name: RSS generator
     url: https://rss.miao.dev/bili/article/123
     expectedStatusCodes:
