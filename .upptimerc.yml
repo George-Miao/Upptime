@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Index
     url: https://miao.dev
+  - name: Bitwarden
+    url: https://bitwarden.miao.dev
   - name: Blog
     url: https://blog.miao.dev
   - name: Pop.tg Site
