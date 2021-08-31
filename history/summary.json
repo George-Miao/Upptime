@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 227,
-    "timeWeek": 284,
+    "timeWeek": 234,
     "timeMonth": 284,
     "timeYear": 284,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 372,
-    "timeWeek": 296,
+    "timeWeek": 272,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {}
@@ -58,19 +58,19 @@
     "url": "https://www.pop.tg",
     "icon": "https://favicons.githubusercontent.com/www.pop.tg",
     "slug": "pop-tg-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 272,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 548,
+    "timeDay": 591,
+    "timeWeek": 528,
+    "timeMonth": 548,
+    "timeYear": 548,
     "dailyMinutesDown": {
-      "2021-08-31": 0
+      "2021-08-31": 9
     }
   },
   {
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 401,
     "timeDay": 582,
-    "timeWeek": 401,
+    "timeWeek": 388,
     "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {}
@@ -104,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 159,
     "timeDay": 155,
-    "timeWeek": 159,
+    "timeWeek": 158,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {}
@@ -122,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 309,
     "timeDay": 235,
-    "timeWeek": 309,
+    "timeWeek": 287,
     "timeMonth": 309,
     "timeYear": 309,
     "dailyMinutesDown": {}
@@ -140,7 +140,7 @@
     "uptimeYear": "100.00%",
     "time": 1054,
     "timeDay": 1087,
-    "timeWeek": 1054,
+    "timeWeek": 1002,
     "timeMonth": 1054,
     "timeYear": 1054,
     "dailyMinutesDown": {}
