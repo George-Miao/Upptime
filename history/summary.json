@@ -112,18 +112,20 @@
     "url": "https://rushia.moe",
     "icon": "https://favicons.githubusercontent.com/rushia.moe",
     "slug": "rushia-button",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 390,
-    "timeWeek": 276,
-    "timeMonth": 302,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 300,
+    "timeDay": 316,
+    "timeWeek": 272,
+    "timeMonth": 300,
+    "timeYear": 300,
+    "dailyMinutesDown": {
+      "2021-09-23": 0
+    }
   },
   {
     "name": "RSS generator",
