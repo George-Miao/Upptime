@@ -3,12 +3,10 @@ owner: George-Miao # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Index
+  - name: Site
     url: https://miao.dev
   - name: Bitwarden
     url: https://bitwarden.miao.dev
-  - name: Blog
-    url: https://blog.miao.dev
   - name: Pop.tg Site
     url: https://www.pop.tg
   - name: Pop.tg API
