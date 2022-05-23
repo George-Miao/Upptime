@@ -25,7 +25,7 @@ sites:
     expectedStatusCodes:
       - 404
   - name: Golden Axe
-    url: https://golde-axe.fly.dev/health
+    url: https://golden-axe.fly.dev/health
     expectedStatusCodes:
       - 204
   - name: Mail list to RSS
