@@ -3,7 +3,7 @@ owner: George-Miao # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Site
+  - name: Blog
     url: https://miao.dev
   - name: Bitwarden
     url: https://bitwarden.miao.dev
@@ -24,6 +24,22 @@ sites:
     url: https://rss.miao.dev/bili/article/123
     expectedStatusCodes:
       - 404
+  - name: Golden Axe
+    url: https://golde-axe.fly.dev/health
+    expectedStatusCodes:
+      - 204
+  - name: Mail list to RSS
+    url: https://rss.miao.do/health
+    expectedStatusCodes:
+      - 204
+  - name: Stargazer Reborn Doc
+    url: https://doc.stargazer.sh/
+    expectedStatusCodes:
+      - 200
+  - name: Stargazer Reborn Book
+    url: https://book.stargazer.sh/
+    expectedStatusCodes:
+      - 200
 
 assignees:
   - George-Miao
@@ -32,7 +48,7 @@ status-website:
   cname: status.miao.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: 'Status of services made by George Miao'
+  introTitle: "Status of services made by George Miao"
   introMessage: Status website shows **real-time** data. By [Upptime](https://github.com/upptime/upptime)
   navbar:
     - title: Status
