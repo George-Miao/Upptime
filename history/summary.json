@@ -48,11 +48,11 @@
     "icon": "https://favicons.githubusercontent.com/bitwarden.miao.dev",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "93.74%",
+    "uptime": "93.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.74%",
+    "uptimeYear": "93.75%",
     "time": 262,
     "timeDay": 456,
     "timeWeek": 250,
@@ -208,11 +208,11 @@
     "icon": "https://favicons.githubusercontent.com/golden-axe.fly.dev",
     "slug": "golden-axe",
     "status": "up",
-    "uptime": "90.62%",
+    "uptime": "90.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "85.90%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "90.62%",
+    "uptimeMonth": "90.86%",
+    "uptimeYear": "90.86%",
     "time": 486,
     "timeDay": 427,
     "timeWeek": 458,
@@ -246,10 +246,10 @@
     "url": "https://doc.stargazer.sh/",
     "icon": "https://favicons.githubusercontent.com/doc.stargazer.sh",
     "slug": "stargazer-reborn-doc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
@@ -257,16 +257,18 @@
     "timeWeek": 388,
     "timeMonth": 462,
     "timeYear": 462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 1
+    }
   },
   {
     "name": "Stargazer Reborn Book",
     "url": "https://book.stargazer.sh/",
     "icon": "https://favicons.githubusercontent.com/book.stargazer.sh",
     "slug": "stargazer-reborn-book",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -275,6 +277,8 @@
     "timeWeek": 288,
     "timeMonth": 252,
     "timeYear": 252,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   }
 ]
