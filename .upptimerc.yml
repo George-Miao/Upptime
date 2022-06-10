@@ -40,6 +40,14 @@ sites:
     url: https://book.stargazer.sh/
     expectedStatusCodes:
       - 200
+  - name: Matrix server
+    url: https://matrix.miao.dev/_matrix/client/versions
+    expectedStatusCodes:
+      - 200
+  - name: Grafana
+    url: https://grafana.miao.dev/api/health
+    expectedStatusCodes:
+      - 200
 
 assignees:
   - George-Miao
