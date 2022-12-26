@@ -52,6 +52,8 @@ sites:
     url: https://mastodon.miao.dev/health
     expectedStatusCodes:
       - 200
+  - name: FreshRSS
+    url: https://freshrss.miao.dev
 assignees:
   - George-Miao
 
