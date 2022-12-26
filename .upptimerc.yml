@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://miao.dev
   - name: Bitwarden
-    url: https://bitwarden.miao.dev
+    url: https://bw.miao.dev
   - name: Pop.tg Site
     url: https://www.pop.tg
   - name: Pop.tg API
@@ -40,15 +40,18 @@ sites:
     url: https://book.stargazer.sh/
     expectedStatusCodes:
       - 200
-  - name: Matrix server
-    url: https://matrix.miao.dev/_matrix/client/versions
-    expectedStatusCodes:
-      - 200
+  # - name: Matrix server
+  #   url: https://matrix.miao.dev/_matrix/client/versions
+  #   expectedStatusCodes:
+  #     - 200
   - name: Grafana
     url: https://grafana.miao.dev/api/health
     expectedStatusCodes:
       - 200
-
+  - name: Mastodon
+    url: https://mastodon.miao.dev/health
+    expectedStatusCodes:
+      - 200
 assignees:
   - George-Miao
 
