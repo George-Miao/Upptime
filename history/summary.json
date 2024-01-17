@@ -4,19 +4,19 @@
     "url": "https://miao.dev",
     "icon": "https://icons.duckduckgo.com/ip3/miao.dev.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "96.62%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 242,
-    "timeWeek": 288,
-    "timeMonth": 285,
-    "timeYear": 231,
+    "timeDay": 285,
+    "timeWeek": 297,
+    "timeMonth": 287,
+    "timeYear": 232,
     "dailyMinutesDown": {
-      "2024-01-17": 12
+      "2024-01-17": 31
     }
   },
   {
@@ -58,17 +58,16 @@
     "slug": "pop-tg-site",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 904,
     "timeDay": 606,
     "timeWeek": 388,
     "timeMonth": 319,
     "timeYear": 975,
     "dailyMinutesDown": {
-      "2024-01-17": 12,
       "2023-03-04": 17
     }
   },
@@ -97,19 +96,19 @@
     "url": "https://typings.dev",
     "icon": "https://icons.duckduckgo.com/ip3/typings.dev.ico",
     "slug": "typings-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 1163,
-    "timeWeek": 383,
-    "timeMonth": 276,
+    "timeDay": 845,
+    "timeWeek": 364,
+    "timeMonth": 274,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-01-17": 12
+      "2024-01-17": 31
     }
   },
   {
