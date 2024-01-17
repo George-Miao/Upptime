@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/miao.dev.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "96.63%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "96.62%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 242,
@@ -16,7 +16,7 @@
     "timeMonth": 285,
     "timeYear": 231,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 12
     }
   },
   {
@@ -56,19 +56,19 @@
     "url": "https://www.pop.tg",
     "icon": "https://icons.duckduckgo.com/ip3/www.pop.tg.ico",
     "slug": "pop-tg-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 904,
-    "timeDay": 744,
-    "timeWeek": 396,
-    "timeMonth": 318,
-    "timeYear": 977,
+    "timeDay": 606,
+    "timeWeek": 388,
+    "timeMonth": 319,
+    "timeYear": 975,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-17": 12,
       "2023-03-04": 17
     }
   },
@@ -99,9 +99,9 @@
     "slug": "typings-dev",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 148,
     "timeDay": 1163,
@@ -109,7 +109,7 @@
     "timeMonth": 276,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 12
     }
   },
   {
