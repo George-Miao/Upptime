@@ -197,19 +197,19 @@
     "url": "https://doc.stargazer.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/doc.stargazer.sh.ico",
     "slug": "stargazer-reborn-doc",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 102,
-    "timeWeek": 293,
-    "timeMonth": 231,
+    "timeDay": 112,
+    "timeWeek": 272,
+    "timeMonth": 227,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-03-16": 2
+      "2024-03-16": 12
     }
   },
   {
@@ -217,19 +217,19 @@
     "url": "https://book.stargazer.sh/",
     "icon": "https://icons.duckduckgo.com/ip3/book.stargazer.sh.ico",
     "slug": "stargazer-reborn-book",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 384,
-    "timeWeek": 188,
-    "timeMonth": 209,
-    "timeYear": 254,
+    "time": 270,
+    "timeDay": 240,
+    "timeWeek": 176,
+    "timeMonth": 205,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2024-03-16": 2
+      "2024-03-16": 12
     }
   },
   {
@@ -242,7 +242,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.70%",
+    "uptimeYear": "87.71%",
     "time": 589,
     "timeDay": 604,
     "timeWeek": 537,
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-03-16": 214,
+      "2024-03-16": 225,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
