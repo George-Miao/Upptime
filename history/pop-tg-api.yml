@@ -1,7 +1,7 @@
 url: https://pop.tg/api/v2/get_record
-status: down
-code: 403
-responseTime: 264
-lastUpdated: 2024-05-07T23:49:34.003Z
+status: up
+code: 200
+responseTime: 336
+lastUpdated: 2024-05-08T00:27:31.324Z
 startTime: 2021-08-24T19:39:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
