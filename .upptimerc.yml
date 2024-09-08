@@ -34,6 +34,8 @@ sites:
       - 200
   - name: FreshRSS
     url: https://freshrss.miao.dev
+  - name: Headscale
+    url: https://headscale.miao.dev/admin
 assignees:
   - George-Miao
 
