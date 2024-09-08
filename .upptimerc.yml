@@ -28,28 +28,8 @@ sites:
     url: https://golden-axe.fly.dev/health
     expectedStatusCodes:
       - 204
-  - name: Mail list to RSS
-    url: https://rss.miao.do/health
-    expectedStatusCodes:
-      - 204
-  - name: Stargazer Reborn Doc
-    url: https://doc.stargazer.sh/
-    expectedStatusCodes:
-      - 200
-  - name: Stargazer Reborn Book
-    url: https://book.stargazer.sh/
-    expectedStatusCodes:
-      - 200
-  # - name: Matrix server
-  #   url: https://matrix.miao.dev/_matrix/client/versions
-  #   expectedStatusCodes:
-  #     - 200
   - name: Grafana
     url: https://grafana.miao.dev/api/health
-    expectedStatusCodes:
-      - 200
-  - name: Mastodon
-    url: https://mastodon.miao.dev/health
     expectedStatusCodes:
       - 200
   - name: FreshRSS
