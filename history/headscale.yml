@@ -1,7 +1,7 @@
 url: https://headscale.miao.dev/admin
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-30T23:12:06.871Z
+status: up
+code: 200
+responseTime: 439
+lastUpdated: 2024-12-01T00:43:45.849Z
 startTime: 2024-09-08T06:39:51.539Z
 generator: Upptime <https://github.com/upptime/upptime>
