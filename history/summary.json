@@ -110,19 +110,19 @@
     "url": "https://rushia.moe",
     "icon": "https://icons.duckduckgo.com/ip3/rushia.moe.ico",
     "slug": "rushia-button",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 840,
-    "timeWeek": 514,
-    "timeMonth": 491,
-    "timeYear": 382,
+    "time": 374,
+    "timeDay": 883,
+    "timeWeek": 565,
+    "timeMonth": 505,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2025-04-01": 0
+      "2025-04-01": 20
     }
   },
   {
@@ -142,7 +142,7 @@
     "timeMonth": 0,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-04-01": 1132,
+      "2025-04-01": 1152,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
