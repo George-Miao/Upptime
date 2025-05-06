@@ -6,7 +6,7 @@ sites:
   - name: Blog
     url: https://miao.dev
   - name: Bitwarden
-    url: https://bw.miao.dev
+    url: https://bw.miao.do
   - name: Pop.tg Site
     url: https://www.pop.tg
   - name: Pop.tg API
