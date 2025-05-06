@@ -20,20 +20,12 @@ sites:
     url: https://typings.dev
   - name: Rushia Button
     url: https://rushia.moe
-  - name: RSS generator
-    url: https://rss.miao.dev/bili/article/123
-    expectedStatusCodes:
-      - 404
-  - name: Golden Axe
-    url: https://golden-axe.fly.dev/health
-    expectedStatusCodes:
-      - 204
   - name: Grafana
-    url: https://grafana.miao.dev/api/health
+    url: https://grafana.miao.do/api/health
     expectedStatusCodes:
       - 200
   - name: FreshRSS
-    url: https://freshrss.miao.dev
+    url: https://freshrss.cap.miao.dev
   - name: Headscale
     url: https://headscale.miao.dev/admin
 assignees:
