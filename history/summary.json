@@ -4,19 +4,19 @@
     "url": "https://miao.dev",
     "icon": "https://icons.duckduckgo.com/ip3/miao.dev.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 199,
-    "timeWeek": 225,
-    "timeMonth": 216,
+    "timeDay": 201,
+    "timeWeek": 223,
+    "timeMonth": 215,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-07-27": 15
+      "2025-07-27": 0
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2025-07-27": 1179,
+      "2025-07-27": 1215,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -119,7 +119,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pop.tg.ico",
     "slug": "pop-tg-api",
     "status": "down",
-    "uptime": "96.21%",
+    "uptime": "96.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -130,7 +130,7 @@
     "timeMonth": 0,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2025-07-27": 1179,
+      "2025-07-27": 1215,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -192,11 +192,11 @@
     "url": "https://typings.dev",
     "icon": "https://icons.duckduckgo.com/ip3/typings.dev.ico",
     "slug": "typings-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
     "timeDay": 104,
@@ -204,7 +204,7 @@
     "timeMonth": 138,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-07-27": 15
+      "2025-07-27": 0
     }
   },
   {
