@@ -6,16 +6,7 @@ sites:
   - name: Blog
     url: https://miao.dev
   - name: Bitwarden
-    url: https://bw.miao.do
-  - name: Pop.tg Site
-    url: https://www.pop.tg
-  - name: Pop.tg API
-    url: https://pop.tg/api/v2/get_record
-    method: POST
-    body: '{ "key": "bili" }'
-    expectedStatusCodes:
-      - 200
-      - 400
+    url: https://bw.miao.dev
   - name: Typings.dev
     url: https://typings.dev
   - name: Rushia Button
@@ -25,9 +16,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: FreshRSS
-    url: https://freshrss.cap.miao.dev
-  - name: Headscale
-    url: https://headscale.miao.dev/admin
+    url: https://freshrss.miao.dev
 assignees:
   - George-Miao
 
