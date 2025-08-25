@@ -1,7 +1,7 @@
 url: https://freshrss.miao.dev
-status: up
-code: 200
-responseTime: 922
-lastUpdated: 2025-08-25T11:23:33.753Z
+status: down
+code: 502
+responseTime: 8150
+lastUpdated: 2025-08-25T13:41:22.211Z
 startTime: 2022-12-26T07:13:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
