@@ -77,16 +77,16 @@
     "url": "https://bw.miao.dev",
     "icon": "https://icons.duckduckgo.com/ip3/bw.miao.dev.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "95.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "95.23%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "91.86%",
-    "time": 347,
-    "timeDay": 261,
-    "timeWeek": 175,
-    "timeMonth": 205,
+    "time": 346,
+    "timeDay": 159,
+    "timeWeek": 161,
+    "timeMonth": 200,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-08-24": 223,
@@ -128,7 +128,8 @@
       "2025-10-26": 80,
       "2025-11-18": 176,
       "2026-03-29": 351,
-      "2026-03-28": 201
+      "2026-03-28": 201,
+      "2026-07-02": 10
     }
   },
   {
@@ -210,9 +211,9 @@
     "url": "https://freshrss.miao.dev",
     "icon": "https://icons.duckduckgo.com/ip3/freshrss.miao.dev.ico",
     "slug": "fresh-rss",
-    "status": "up",
-    "uptime": "87.57%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.58%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.00%",
@@ -265,7 +266,8 @@
       "2025-11-18": 177,
       "2026-01-29": 54,
       "2026-03-29": 352,
-      "2026-03-28": 200
+      "2026-03-28": 200,
+      "2026-07-02": 0
     }
   }
 ]
