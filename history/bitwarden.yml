@@ -1,7 +1,7 @@
 url: https://bw.miao.dev
-status: up
-code: 200
-responseTime: 261
-lastUpdated: 2026-07-02T00:02:36.271Z
+status: down
+code: 502
+responseTime: 57
+lastUpdated: 2026-07-02T15:04:56.812Z
 startTime: 2021-08-31T08:10:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
