@@ -1,7 +1,7 @@
 url: https://grafana.miao.do/api/health
 status: up
 code: 200
-responseTime: 310
-lastUpdated: 2026-08-29T03:59:23.135Z
+responseTime: 389
+lastUpdated: 2026-08-30T00:57:10.005Z
 startTime: 2022-06-10T01:29:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
